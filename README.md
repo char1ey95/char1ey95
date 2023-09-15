@@ -10,7 +10,7 @@
 
 ### Language
 
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=typescript&logo=typescript&logoColor=ffffff"/> <img src="https://img.shields.io/badge/Node_js-339933?style=nodedotjs&logo=nodedotjs&logoColor=ffffff"/> <img src="https://img.shields.io/badge/Solidity-363636?style=solidity&logo=solidity&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=typescript&logo=typescript&logoColor=ffffff"/> <img src="https://img.shields.io/badge/Solidity-363636?style=solidity&logo=solidity&logoColor=ffffff"/>
 
 ### Tools
  

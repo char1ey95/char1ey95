@@ -1,10 +1,10 @@
+## Hi there! I'm web developer Char1ey.
+
 ## About me
 
 <a href="https://char1ey.tistory.com/" target="_blank">
   <img src="https://img.shields.io/badge/tistory-000000?style=tistory&logo=tistory&logoColor=ffffff"/>
 </a>
-
-## Hi there! I'm web developer.
 
 ## 🛠️ Skills
 

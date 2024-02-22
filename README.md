@@ -25,7 +25,7 @@
 
 
 
-![char1ey95's GitHub stats](https://github-readme-stats.vercel.app/api?username=char1ey95&show_icons=true&theme=radical)
+![char1ey95's GitHub stats](https://github-readme-stats.vercel.app/api?username=char1ey95&show_icons=true&theme=chartreuse-dark)
 
 <!-- 테마 변경시 https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md -->
 
